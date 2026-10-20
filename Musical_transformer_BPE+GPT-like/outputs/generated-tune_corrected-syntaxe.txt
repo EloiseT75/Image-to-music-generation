@@ -1,0 +1,9 @@
+X:1
+T:Generated Tune 
+M:4/4
+L:1/8
+K:G
+ G2 | G2 G>B B>G | G>AB>G G>B | d>ef>g | B3 G | A>BA>G G>F | B>AB>A G>A |
+A>GA>B B>AB>G D | E>GA>B G>B | G>B B>g G>G | A>AG>G G>B | A>GA>B G>B | d>ed>e d>G G>B |
+A>BA>B F>G | A>GA>B G>B | c>AB>g G2 | A>Bc>d B>d |
+    
